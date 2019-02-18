@@ -1,0 +1,19 @@
+.container {
+    margin-top: 20px;
+}
+
+.col-md-6 {
+    border: 1px solid gray;
+    padding-top: 20px;
+}
+
+#ambany {
+    padding-bottom: 100px;
+    margin-bottom: 100px;
+}
+
+#entre {
+    border: 1px solid gray;
+    font-weight: bold;
+    width: auto;
+}
